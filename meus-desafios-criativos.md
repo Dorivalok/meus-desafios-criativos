@@ -1,0 +1,1 @@
+Quero que a IA gere uma lista de ideias de fantasias para o halloween, com o objetivo de gerar uma lista de ideias simples para fantasias de ultima hora . Considere o seguinte contexto: maquiagens de uso do dia a dia . O conteúdo deve ter formato de lista simples. Evite linguagem técnica.
